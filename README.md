@@ -58,19 +58,24 @@ when tested, salt minion isn't responding would need to figure out how to fix th
 
 checkout git branch which contains salt code to your salt files root folder
 
-apply salt states 
-test url/program
+apply salt states and  test program
 
 salt states will contain:
+
 install nginx and add php or go support for program
-	import my sql app code from repo and start nginx
+
+import my sql app code from repo and start nginx
 
 install mysql and start
+
 import mysql DB from repo
 
 git branch will need to have:
 
 salt state files
+
 db from github provided for the challenge 
+
 my sql app code
+
 docker image with salt installed
