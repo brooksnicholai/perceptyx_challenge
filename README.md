@@ -76,6 +76,5 @@ salt state files
 
 db from github provided for the challenge 
 
-my sql app code
+my sql app code which will: connect to DB, run SQL select, disconnect from DB, and display result
 
-docker image with salt installed
