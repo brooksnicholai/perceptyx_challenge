@@ -1,6 +1,6 @@
 # perceptyx_challenge
 Steps to create the container that I did: (I now realize that the "proper way" would be to use a Dockerfile) 
-
+testing
 ----------------------------------------------------------------------------------
 
 Install Docker for your preferred platform. I did windows:
